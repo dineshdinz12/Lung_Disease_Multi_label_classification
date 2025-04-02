@@ -1,0 +1,28 @@
+# Ignore the dataset folder completely
+dataset/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+ENV/
+env/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore node_modules (if using Node.js in frontend)
+node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

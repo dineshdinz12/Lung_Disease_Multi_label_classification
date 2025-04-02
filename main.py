@@ -189,7 +189,7 @@ def predict_image(model, image_path, model_classes, device, threshold=0.3):
         'Hernia': 0.35,
         'Infiltration': 0.35,
         'Mass': 0.35,
-        'No Finding': 0.45,
+        'No Finding': 0.40,
         'Nodule': 0.35,
         'Pneumonia': 0.35,
         'Pneumothorax': 0.35
